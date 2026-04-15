@@ -43,9 +43,9 @@ When I am not writing code for web architectures, I am exploring:
 
 ---
 
-## ⚡ GitHub Stats
+## ⚡ Let's Connect
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meljanat&show_icons=true&theme=radium" alt="Mouad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meljanat&layout=compact&theme=radium" alt="Top Languages" />
-</div>
+If you want to talk about system architecture, bare-metal servers, or frontend performance, feel free to reach out!
+
+* **LinkedIn:** [linkedin.com/in/mouad-el-janati](https://www.linkedin.com/in/mouad-el-janati)
+* **GitHub:** [github.com/meljanat](https://github.com/meljanat)
